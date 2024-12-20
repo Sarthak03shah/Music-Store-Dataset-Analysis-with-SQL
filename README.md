@@ -4,7 +4,7 @@
 
 This project uses SQL to analyze the dataset of an online music store. The goal is to answer a set of questions about the store's business performance and help drive growth by enabling better decision-making.
 
-## Schema
+---## Schema
 
 ![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
 
