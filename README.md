@@ -22,27 +22,27 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 The project focuses on:
 
-Analyzing customer purchasing behavior.
+-Analyzing customer purchasing behavior.
 
-Identifying popular genres, artists, and songs.
+-Identifying popular genres, artists, and songs.
 
-Examining average pricing across music types.
+-Examining average pricing across music types.
 
-Understanding geographic trends in music purchases.
+-Understanding geographic trends in music purchases.
 
 ## Questions Answered
 
 The following are some of the key questions addressed in this project:
 
-What are the most popular genres of music?
+1. What are the most popular genres of music?
 
-What are the most popular artists?
+2. What are the most popular artists?
 
-What are the most popular songs?
+3. What are the most popular songs?
 
-What are the average prices of different types of music?
+4. What are the average prices of different types of music?
 
-What are the most popular countries for music purchases?
+5. What are the most popular countries for music purchases?
 
 For the complete analysis, refer to the analysis.sql file.
 
@@ -50,15 +50,15 @@ For the complete analysis, refer to the analysis.sql file.
 
 Key findings include:
 
-The most popular genre of music is "Rock".
+1.The most popular genre of music is "Rock".
 
-The most popular artist is "Queens".
+2. The most popular artist is "Queens".
 
-The most popular song is "War Pigs".
+3. The most popular song is "War Pigs".
 
-The average price of an album is $1.
+4. The average price of an album is $1.
 
-The most popular country for music purchases is the United States.
+5. The most popular country for music purchases is the United States.
 
 ## How to Use This Repository
 
