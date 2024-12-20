@@ -75,7 +75,7 @@ Using visualization tools like Tableau or Power BI for graphical insights.
 
 Automating insights with stored procedures or triggers.
 
-
+---
 Thank you for exploring this project!
 
 
