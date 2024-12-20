@@ -1,7 +1,4 @@
-# SQL Project: Music Store Analysis
 
-This project uses SQL to analyze the dataset of an online music store. The goal is to answer a set of questions about the store's business performance and help drive growth by enabling better decision-making.
----
 
 # SQL Project: Music Store Analysis
 
