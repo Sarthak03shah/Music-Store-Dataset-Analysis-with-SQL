@@ -50,7 +50,7 @@ For the complete analysis, refer to the analysis.sql file.
 
 Key findings include:
 
-1.The most popular genre of music is "Rock".
+1. The most popular genre of music is "Rock".
 
 2. The most popular artist is "Queens".
 
